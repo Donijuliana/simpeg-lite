@@ -2,7 +2,7 @@
 
 @section('content')
     <div style="text-align: center; margin-bottom: 30px;">
-        <h2 style="font-weight: bold;">📊 Dashboard SIMPEG LITE</h2>
+        <h2 style="font-weight: bold;">📊 Dashboard CENTRA ABIYOSO</h2>
         <p>Sistem Informasi Manajemen Kepegawaian Versi Ringan</p>
     </div>
 
